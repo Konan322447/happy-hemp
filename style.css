@@ -163,7 +163,7 @@
     }
 
     .links {
-        width: 90vw;
+        width: fit-content;
         padding: 1rem;
         justify-content: center;
 
