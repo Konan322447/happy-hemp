@@ -234,6 +234,9 @@
         top: 3%;
         width: 90vw;
         padding: 5%;
+        p{
+            font-size: 0.8rem;
+        }
     }
 
     @keyframes bounce {
