@@ -219,7 +219,13 @@
             flex-basis: 20%;
             padding: 0.5rem;
             img{
-                width: 1.5rem;
+                width: 2.5rem;
+            }
+        }
+        .logo{
+            padding: 0.3rem;
+            img{
+                width: 2.5rem;
             }
         }
     }
