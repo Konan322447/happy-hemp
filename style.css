@@ -36,7 +36,6 @@
     top: 0;
     left: 0;
     z-index: -1;
-    object-fit: cover;
 }
 
 .links {
@@ -159,6 +158,9 @@
     .container {
         padding: 1rem;
     }
+    .bgImg{
+        object-fit: cover;
+    }
 
     .links {
         width: 90vw;
@@ -206,6 +208,9 @@
         height: 100dvh;
         overflow: hidden;
         padding: 10%;
+    }
+    .bgImg{
+        object-fit: cover;
     }
 
     .links {
