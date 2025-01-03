@@ -234,6 +234,9 @@
         top: 3%;
         width: 90vw;
         padding: 5%;
+        h1{
+            font-size: 1.8rem;
+        }
         p{
             font-size: 0.8rem;
         }
