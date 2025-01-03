@@ -15,7 +15,7 @@
 
 .container {
     width: 100vw;
-    height: 100vh;
+    height: 100dvh;
     overflow: hidden;
     /* background-image: url(images/desktop-bg.jpg);
     background-repeat: no-repeat;
@@ -203,7 +203,7 @@
 
 @media only screen and (max-width:400px) {
     .container {
-        height: 100vh;
+        height: 100dvh;
         overflow: hidden;
         padding: 10%;
     }
